@@ -27,7 +27,7 @@
 👉 apt-get update -y && apt-get upgrade -y
 👉 cd && termux-setup-storage
 👉 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
-👉 git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
+👉 git clone https://github.com/Micasatio/BotBlack.git && cd BotBlack
 👉 yarn install
 👉 npm install
 👉 npm update
@@ -40,21 +40,21 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 👉 cd 
-👉 cd Mystic-termux
+👉 cd BotBlack
 👉 npm start
 ```
-
+> NO Pongas los emojis en termux mongolito
 ### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
 - DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 👉 cd 
-👉 cd Mystic-termux
+👉 cd BotBlack
 👉 rm -rf MysticSession
 👉 npm start
 ```
 
-
+> NO Pongas los emojis en termux mongolito
 
 ### `—◉ 📝 NOTAS 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
