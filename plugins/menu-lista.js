@@ -18,24 +18,24 @@ rows: [
       {title: "⚽Messi", description: "Foto de Messi 🥵", rowId: `${usedPrefix}messi`},
       {title: "🔊 audios 🔊", description: "para los audios del bot", rowId: `${usedPrefix}menu2`},
       {title: "🥵Loli🥵", description: null, rowId: `loli`},
-      {title: "Menú completo", description: "Para ver el menú completo del bot" , rowId: `menucompleto`},
+      {title: "🔶Menú completo🔶", description: "Para ver el menú completo del bot" , rowId: `menucompleto`},
 ]}, ]
 let name = await conn.getName(m.sender)
 const listMessage = {
 text: `╭─「 Black Bot 」
 ║❥Hola, ${name}! Espero que tengas un lindo día o noche!!
 ║
-║❥Creador del Bot: +595 983 186566
+║❥Creador del Bot: +595 983 186566 y +1 (732) 819-5388
+║❥Bot Oficial: +1 (732) 819-5388 y +1 (601) 873-5554
+║GitHub Del Bot:  https://github.com/Micasatio/BotBlack
 ║
-║❥Tu SN es: 
 ║
-║❥💰Coins restantes:  Coins*
 ║
 ║❥Tu nivel es: 1
 ║
 ║❥ XP en Total 98
 ║
-║❥YouTube: https://www.youtube.com/c/TheKillerMaxOFC
+║❥
 ║
 ║❥Reestablecer códigos de tu número de WhatsApp en menos de 30 segundos: https://youtu.be/c4K0n3XdCXE
 ║
