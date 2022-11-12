@@ -5,13 +5,13 @@ import fs from 'fs'
 
 global.owner = [
   ['595983186566', '👑 Black - Creador 👑', true],
-  ['16018735554', '👑 Black  - Oficial b 1 👑', true],
+  ['524531106422', '👑 Black  - Creador 2 👑', true],
+  ['524531106422', '👑 Black - Collaborator 1 👑', true],
   ['16018735554', '👑 Black - Collaborator 2 👑', true],
   ['16018735554', '👑 Black - Collaborator 3 👑', true],
   ['16018735554', '👑 Black - Collaborator 4 👑', true],
-  ['16018735554', '👑 Black - Collaborator 5 👑', true],
-  ['594983186566', '👑 Black - Collaborator 6 👑', true],
-  ['16018735554', '👑 Bkack - Collaborator 7 👑', true],  
+  ['594983186566', '👑 Black - Collaborator 5 👑', true],
+  ['16018735554', '👑 Bkack - Collaborator 6 👑', true],  
   ['16018735554'],
   ['16018735554'],
   ['16018735554'],
@@ -19,9 +19,9 @@ global.owner = [
   ['16018735554']
 ] 
 global.suittag = ['595983186566'] 
-global.prems = ['16018735554'] 
+global.prems = ['524531106422'] 
 
-global.packname = 'BlaxkBot'
+global.packname = 'BlackBot'
 global.author = '★Black - 𝙱𝚘𝚝★'
 global.wm = '★Black - 𝙱𝚘𝚝★'
 global.igfg = '★Black - 𝙱𝚘𝚝★'
