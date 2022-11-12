@@ -1,11 +1,17 @@
 # Black_Bot-MD 🎉
 
-### `—◉ 😈 DUDAS SOBRE EL BOT?, CONTACTAME 😈`
-<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+### `—◉ 😈 DUDAS SOBRE EL BOT?, CONTACTANOS 😈`
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/CREADOR-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/CREADOR-2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ ☣️ GRUPO Del Bot ☣️`
 
-<a href="https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+### `—◉ ☣️ GRUPOS DEL BOT ☣️`
+
+<a href="https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432" target="blank"><img src="https://img.shields.io/badge/GRUPO-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk" target="blank"><img src="https://img.shields.io/badge/GRUPO-2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC" target="blank"><img src="https://img.shields.io/badge/GRUPO-3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### `—◉ 🤖 BOT OFICIAL 🤖`
@@ -35,7 +41,7 @@
 👉 npm start
 
 ```
-> NO Pongas los emojis en termux mongolito
+
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
@@ -43,18 +49,9 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 👉 cd BotBlack
 👉 npm start
 ```
-> NO Pongas los emojis en termux mongolito
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A BotBlack $  
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-👉 cd 
-👉 cd BotBlack
-👉 rm -rf MysticSession
-👉 npm start
-```
 
-> NO Pongas los emojis en termux mongolito
+
+
 
 ### `—◉ 📝 NOTAS 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
